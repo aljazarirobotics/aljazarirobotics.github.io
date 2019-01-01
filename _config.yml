@@ -4,8 +4,8 @@ email: roboticsaljazari@gmail.com
 url: https://aljazarirobotics.github.io/
 description: "AJR is a start-up company dedicated to robotics. We provide robotics soluations and services, including but not limited to: developing robot platforms, software support, and maintenance"
 keywords: "Mobile robots, robotic research platforms, ROS, MatLAB, C, C++, Python, SDK, drivers, embedded systems"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+skills: "Developing robot platforms, Software Support, Maintenance"
+meta_author: Robotics AlJazari
 
 # Google webmaster tools
 google_verify:
@@ -21,19 +21,19 @@ contact: static
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: myshortname
+disqus_shortname: AJR
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
+  primary: ffe603 #18bc9c #80B3FF
   primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  secondary: 000302 #2c3e50 #FD6E8A
+  secondary-dark: 000302 #A2122F
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
+  copyright: Al Jazari Robotics
+  location: Canada, Germany, UAE, Eygpt, Jordan
   social: Around the Web
   credits: Credits
 
